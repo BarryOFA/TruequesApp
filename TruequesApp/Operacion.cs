@@ -26,7 +26,6 @@ namespace TruequesApp
         public void MostrarOperacion()
         {
             {
-
                 Console.ForegroundColor = ConsoleColor.DarkGray;
                 Console.Write("Fecha Operacion:");
                 Console.ForegroundColor = ConsoleColor.White;
